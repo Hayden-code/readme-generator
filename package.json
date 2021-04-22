@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Hayden-code/readme-generator/issues"
   },
-  "homepage": "https://github.com/Hayden-code/readme-generator#readme"
+  "homepage": "https://github.com/Hayden-code/readme-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.0.0"
+  }
 }
